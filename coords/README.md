@@ -5,5 +5,5 @@ Install this folder into your "resources" folder on your server and add it to yo
 - Added functions in code
 - Added a local variable for toggle ability
 - Added a While loop to code
-- Made Code look neat and not sloppy (If you cant code neatly then dont code)
+- Made Code look a bit more neat
 - Added other Code to make work (sorry won't disclose everything, go learn something!)
